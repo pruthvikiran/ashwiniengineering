@@ -690,12 +690,12 @@ nav.navbar.navbar-default {
 }
 .nbs-flexisel-nav-left {
 left: -17em;
-    top: 70% !important;
+    top: 89% !important;
 background: url(../images/arrow_left.png) no-repeat 15px 15px #12A7CA;
 }
 .nbs-flexisel-nav-right {
 left: -13em;
-    top: 70% !important;
+    top: 89% !important;
 background: url(../images/arrow_right.png) no-repeat 15px 15px #12A7CA;
 }
 /*--//flexisel--*/
