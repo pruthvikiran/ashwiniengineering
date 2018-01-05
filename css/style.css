@@ -646,6 +646,10 @@ nav.navbar.navbar-default {
 .content-pro {
     padding: 6em 0 ;
 }
+.content-pro .client {
+   width: 300px;
+   height: 300px;
+}    
 /*--flexisel--*/
 #flexiselDemo1 {
 	display: none;
