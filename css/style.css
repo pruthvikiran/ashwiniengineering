@@ -692,12 +692,12 @@ nav.navbar.navbar-default {
 }
 .nbs-flexisel-nav-left {
 left: -17em;
-    top: 89% !important;
+    top: 100% !important;
 background: url(../images/arrow_left.png) no-repeat 15px 15px #12A7CA;
 }
 .nbs-flexisel-nav-right {
 left: -13em;
-    top: 89% !important;
+    top: 100% !important;
 background: url(../images/arrow_right.png) no-repeat 15px 15px #12A7CA;
 }
 /*--//flexisel--*/
@@ -746,7 +746,7 @@ background: url(../images/arrow_right.png) no-repeat 15px 15px #12A7CA;
 }
 .bottom-grid p{
 	font-size:1em;
-	color:#999;
+	color:#000;
 	margin-bottom:1em;
 }
 .bottom-grid img{
